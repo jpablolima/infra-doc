@@ -1,4 +1,0 @@
-**/.terraform/*
-key.json
-crash.log
-*.tfvars
